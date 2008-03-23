@@ -1,4 +1,9 @@
+TODO list for libcaptury
+========================
 
 	* api documentation
-	* audio capturing
-
+	* add XShm/XImage video source support for capturing from native X11 screens that are not OpenGL composited e.g.
+	  (XShm might come quite in handy for non-compositing window managers using libcaptury's 
+	  incremental capturing feature)
+	* add audio capturing (ALSA source device)
+	* more examples?
