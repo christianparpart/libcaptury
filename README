@@ -1,0 +1,20 @@
+vim:ai:et:ts=4:nowrap
+
+    libcaptury - X11/GLX Video Capturing Framework
+    ==============================================
+
+libcaptury is a movie capturing framework with its primary goal
+to capture the screen of OpenGL games (running on Linux systems).
+
+this framework's goal is, to provide an easy to understand and 
+easy to use C API that can be quickly integrated into already 
+existing applications that need capturing capabilities.
+
+
+    RELATED SOFTWARE:
+    =================
+
+ * yukon - http://www.neopsis.com/projects/yukon
+            an OpenGL capturing tool, using seom
+ * fraps - http://www.fraps.com/ 
+            a DirectX/OpenGL capturing tool - for win32 only!

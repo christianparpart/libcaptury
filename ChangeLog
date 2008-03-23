@@ -1,0 +1,10 @@
+
+Release 0.2.0 (future):
+	* added cursor support
+	* added initial(!) support incremental screen processing.
+	* added timing algorithm for capturing properly around slow host CPUs
+	* implemented frame down scaling, so captury_config_t.scale now takes affect.
+	* make use of the new codec, capseo, drop all other codecs
+
+Release 0.1.0 (2007-02-16):
+	* initial working version for capturing and encoding video data
