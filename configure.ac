@@ -35,7 +35,7 @@ PKG_PROG_PKG_CONFIG([0.17.2])
 dnl {{{ --enable-examples
 AC_ARG_ENABLE([examples], [
   --disable-examples       Disables compilation of example programs],
-  [enable_examples=${withval}],
+  [enable_examples=${enableval}],
   [enable_examples=yes]
 )
 AM_CONDITIONAL([EXAMPLES], [test x$enable_examples = xyes])
