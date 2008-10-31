@@ -1,5 +1,5 @@
 
-Release 0.2.0 (future):
+Release 0.3.0 (2008-10-31):
 	* added cursor support
 	* added initial(!) support incremental screen processing.
 	* added timing algorithm for capturing properly around slow host CPUs
